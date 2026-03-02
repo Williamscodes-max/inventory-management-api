@@ -108,3 +108,15 @@ ALX Backend Engineering Program
 ## Notes
 This project was built during the ALX capstone phase.  
 Some features may still be improved, but the core backend functionality is complete and working
+
+
+
+
+## Deployment Notes
+
+This project uses SQLite for local development and testing.
+
+For deployment, the API service was successfully deployed and is publicly accessible.  
+A production database (e.g., PostgreSQL) was not configured, as it was optional for this task.
+
+SQLite was used for development; production DB setup was optional for this task.
